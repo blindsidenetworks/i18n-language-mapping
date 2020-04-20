@@ -395,6 +395,10 @@ module I18n
             "nativeName": "Magyar",
             "englishName": "Hungarian"
           },
+          "hy": {
+            "nativeName": "Հայերեն",
+            "englishName": "Armenian"
+          },
           "hy-AM": {
             "nativeName": "Հայերեն",
             "englishName": "Armenian"
