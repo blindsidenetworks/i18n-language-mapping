@@ -43,6 +43,10 @@ module I18n
             "nativeName": "العربية",
             "englishName": "Arabic"
           },
+          "ar-IQ": {
+            "nativeName": "(العراق) العربية",
+            "englishName": "Arabic (Iraq)"
+          },
           "ar-MA": {
             "nativeName": "العربية",
             "englishName": "Arabic (Morocco)"
